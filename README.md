@@ -6,7 +6,6 @@
 | [![](./assets/lowres-css_box_model.png)](./assets/css_box_model.png) | [MDN Box Model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model) | `box-sizing: content-box` sets width to the size of the content (not including padding and border), whereas `box-sizing: border-box` sets the width to the size of the content + padding + border. |
 | [![](./assets/lowres-css_flexbox.png)](./assets/css_flexbox.png) | [MDN Flexbox](hhttps://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox) | Flexbox is a one-dimensional layout method for arranging items in rows or columns. |
 | [![](./assets/css_grid.png)](./assets/css_grid.png)          | [MDN Grid](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids) | CSS Grid Layout is a two-dimensional layout system for the web. It lets you lay content out in rows and columns. |
-=======
 | [![](./assets/lowres-css_flexbox.png)](./assets/css_flexbox.png) | [MDN Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox) | Flexbox is a one-dimensional layout method for arranging items in rows or columns. |
 
 ## :red_circle: New CSS Features
